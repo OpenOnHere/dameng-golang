@@ -14,7 +14,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/OpenOnHere/dameng-golang/util"
+	"github.com/fork-to-here/dameng-golang/util"
 )
 
 type logFilter struct{}

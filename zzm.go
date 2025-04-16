@@ -14,7 +14,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/OpenOnHere/dameng-golang/util"
+	"github.com/fork-to-here/dameng-golang/util"
 )
 
 var LogDirDef, _ = os.Getwd()

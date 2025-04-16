@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/OpenOnHere/dameng-golang/util"
+	"github.com/fork-to-here/dameng-golang/util"
 )
 
 var G2DB g2db

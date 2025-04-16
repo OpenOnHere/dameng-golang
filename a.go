@@ -14,7 +14,7 @@ import (
 	"time"
 	"unicode/utf8"
 
-	"github.com/OpenOnHere/dameng-golang/security"
+	"github.com/fork-to-here/dameng-golang/security"
 )
 
 const (

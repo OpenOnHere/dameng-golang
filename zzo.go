@@ -7,7 +7,7 @@ package dm
 import (
 	"strconv"
 
-	"github.com/OpenOnHere/dameng-golang/util"
+	"github.com/fork-to-here/dameng-golang/util"
 )
 
 const (

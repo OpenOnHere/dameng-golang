@@ -13,8 +13,8 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/OpenOnHere/dameng-golang/parser"
-	"github.com/OpenOnHere/dameng-golang/util"
+	"github.com/fork-to-here/dameng-golang/parser"
+	"github.com/fork-to-here/dameng-golang/util"
 	"golang.org/x/text/encoding"
 )
 

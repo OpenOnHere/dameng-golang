@@ -1,4 +1,4 @@
-module github.com/OpenOnHere/dameng-golang
+module github.com/fork-to-here/dameng-golang
 
 go 1.13
 

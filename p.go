@@ -11,7 +11,7 @@ import (
 	"net"
 	"sync"
 
-	"github.com/OpenOnHere/dameng-golang/i18n"
+	"github.com/fork-to-here/dameng-golang/i18n"
 )
 
 // 发版标记

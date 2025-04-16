@@ -17,7 +17,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/OpenOnHere/dameng-golang/util"
+	"github.com/fork-to-here/dameng-golang/util"
 )
 
 var rp = newRsPool()

@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"runtime"
 
-	"github.com/OpenOnHere/dameng-golang/i18n"
+	"github.com/fork-to-here/dameng-golang/i18n"
 )
 
 // 驱动级错误

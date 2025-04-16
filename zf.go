@@ -12,7 +12,7 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/OpenOnHere/dameng-golang/util"
+	"github.com/fork-to-here/dameng-golang/util"
 )
 
 const SQL_GET_DSC_EP_SITE = "SELECT " +

@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/OpenOnHere/dameng-golang/util"
+	"github.com/fork-to-here/dameng-golang/util"
 )
 
 var DB2G db2g
