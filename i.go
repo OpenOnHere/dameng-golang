@@ -5,9 +5,10 @@
 package dm
 
 import (
-	"dm/util"
 	"strconv"
 	"time"
+
+	"github.com/OpenOnHere/dameng-golang/util"
 )
 
 var DB2G db2g

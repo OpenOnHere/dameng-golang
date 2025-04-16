@@ -9,12 +9,13 @@ import (
 	"context"
 	"database/sql"
 	"database/sql/driver"
-	"dm/parser"
-	"dm/util"
 	"fmt"
-	"golang.org/x/text/encoding"
 	"sync"
 	"sync/atomic"
+
+	"github.com/OpenOnHere/dameng-golang/parser"
+	"github.com/OpenOnHere/dameng-golang/util"
+	"golang.org/x/text/encoding"
 )
 
 type DmConnection struct {

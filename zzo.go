@@ -5,8 +5,9 @@
 package dm
 
 import (
-	"dm/util"
 	"strconv"
+
+	"github.com/OpenOnHere/dameng-golang/util"
 )
 
 const (
